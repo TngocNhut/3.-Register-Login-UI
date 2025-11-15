@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <!-- Login -->
+    <string name="login_welcome_title">Welcome Back</string>
+    <string name="login_welcome_subtitle">Please login</string>
+    <string name="welcome">Welcome!</string>
+
+    <!-- Signup -->
+    <string name="signup_title">Create Account</string>
+    <string name="signup_subtitle">Please fill the form below</string>
+
+    <!-- Common -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Name</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+
+    <!-- Buttons -->
+    <string name="login_button_desc">Login Button</string>
+    <string name="signup_button_desc">Signup Button</string>
+
+    <!-- Links -->
+    <string name="signup_link_text">Are you new user? Register</string>
+    <string name="forgot_password_text">Forget your password? Recovery it</string>
+
+    <!-- Social -->
+    <string name="facebook_text">Facebook</string>
+    <string name="google_text">Google</string>
+</resources>
